@@ -2,19 +2,26 @@
 title: Welcome
 ---
 h1. Welcome
+---
+
+title: "Welcome to my blog"
+date: 2019-01-20
+---
 
 This is a markdown file.
 
-[]: # Language: html
-[]: # Path: index.html
----
+Language: html
+Path: index.html
+----------------
 
-<h1>Welcome</h1>
+## Markdown heading
+
+
 
 <p>This is a html file.</p>
 ---
-[]: # Language: css
-[]: # Path: index.css
+Language: css
+Path: index.css
 ---
 h1 {
   color: red;
