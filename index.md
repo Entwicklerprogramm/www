@@ -1,6 +1,7 @@
 ---
-title: Welcome
+## Welcome to Entwicklerprogramm
 ---
+<<<<<<< HEAD
 h1. Welcome
 ---
 
@@ -22,6 +23,20 @@ Path: index.html
 ---
 Language: css
 Path: index.css
+=======
+## (´･_･`) worried ?
+##        dear god why !?!  <<<  щ（ﾟДﾟщ）
+This is a markdown file.
+
+[]:  Language: html
+[]:  Path: index.html
+---
+
+<p>This is a html file.</p>
+---
+[]:  Language: css
+[]:  Path: index.css
+>>>>>>> 22bfcdffb39946f25d42f9312ae4e9e298a6d56d
 ---
 h1 {
   color: red;
