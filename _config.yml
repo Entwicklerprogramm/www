@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 theme: minima
 # Behaviorbot config. See https://github.com/behaviorbot/ for more information.
 # Note: Please Don't edit this file directly.
