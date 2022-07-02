@@ -1,16 +1,4 @@
-theme: jekyll-theme-minimal
-markdown: kramdown  # or markdown-kramdown
-#markdown: kramdown-gfm
-#markdown: gfm
-#markdown: markdown-redcarpet
-#markdown: markdown-pygmdown
-#markdown: markdown-it-kramdown
-#markdown: markdown-it-gfm
-#markdown: markdown-it-redcarpet
-#markdown: markdown-it-pygmdown
-#markdown: markdown-it-markdown-it-pygmdown
-#markdown: markdown-it-markdown-it-pygmdown-gfm
-#markdown: markdown-it-markdown-it-pygmdown-gfm-kramdown
-#markdown: markdown-it-markdown-it-pygmdown-gfm-kramdown-redcarpet
-#markdown: markdown-it-markdown-it-pygmdown-gfm-kramdown-redcarpet-kramdown
-#markdown: markdown-it-markdown-it-pygmdown-gfm-kramdown-redcarpet-kramdown-gfm
+title: 'my page'
+#theme: jekyll-theme-minimal
+theme: minima
+
