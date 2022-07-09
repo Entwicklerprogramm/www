@@ -1,0 +1,10 @@
+{
+    "deepscan.enable": true,
+    "cSpell.words": [
+        "mindmap"
+    ],
+    "[markdown]": {
+        "diffEditor.codeLens": true,
+        "editor.cursorStyle": "block"
+    }
+}

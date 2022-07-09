@@ -1,13 +1,9 @@
 ---
 ## Welcome to Entwicklerprogramm
 ---
-<<<<<<< HEAD
-h1. Welcome
----
-
 title: "Welcome to my blog"
 date: 2019-01-20
----
+----------------
 
 This is a markdown file.
 
@@ -16,8 +12,6 @@ Path: index.html
 ----------------
 
 ## Markdown heading
-
-
 
 <p>This is a html file.</p>
 ---
@@ -30,7 +24,7 @@ This is a markdown file.
 
 []:  Language: html
 []:  Path: index.html
----
+---------------------
 
 <p>This is a html file.</p>
 ---
