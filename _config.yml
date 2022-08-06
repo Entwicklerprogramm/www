@@ -1,4 +1,4 @@
 title: 'my page'
 #theme: jekyll-theme-minimal
-theme: minimal
-
+#theme: minimal
+remote_theme: b2a3e8/jekyll-theme-console
