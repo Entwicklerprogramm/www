@@ -1,4 +1,8 @@
 {
     "deepscan.enable": true,
-    "git.autofetch": true
+    "git.autofetch": true,
+    "cSpell.words": [
+        "entwicklerprogramm",
+        "ϨH𐨩𐌰"
+    ]
 }
