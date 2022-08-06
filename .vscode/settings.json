@@ -2,6 +2,8 @@
     "deepscan.enable": true,
     "git.autofetch": true,
     "cSpell.words": [
+        "buildscript",
+        "codeql",
         "entwicklerprogramm",
         "hackerdom",
         "ϨH𐨩𐌰"
