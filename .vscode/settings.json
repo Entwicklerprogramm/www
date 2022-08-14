@@ -1,5 +1,6 @@
 {
     "deepscan.enable": true,
+#<<<<<<< my-pages
     "cSpell.words": [
         "mindmap"
     ],
@@ -7,4 +8,16 @@
         "diffEditor.codeLens": true,
         "editor.cursorStyle": "block"
     }
+=======
+    "git.autofetch": true,
+    "cSpell.words": [
+        "Autobuild",
+        "buildscript",
+        "codeql",
+        "entwicklerprogramm",
+        "hackerdom",
+        "ϨH𐨩𐌰",
+        "ﾟДﾟщ"
+    ]
+#>>>>>>> main
 }
