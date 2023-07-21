@@ -1,5 +1,14 @@
 {
     "deepscan.enable": true,
+#<<<<<<< my-pages
+    "cSpell.words": [
+        "mindmap"
+    ],
+    "[markdown]": {
+        "diffEditor.codeLens": true,
+        "editor.cursorStyle": "block"
+    }
+=======
     "git.autofetch": true,
     "cSpell.words": [
         "Autobuild",
@@ -10,4 +19,5 @@
         "ϨH𐨩𐌰",
         "ﾟДﾟщ"
     ]
+#>>>>>>> main
 }
